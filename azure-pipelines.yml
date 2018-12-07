@@ -14,5 +14,4 @@ steps:
 
 - script: |
     npm install
-    npm run prestart:prod
   displayName: 'npm install and build'
