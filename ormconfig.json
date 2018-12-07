@@ -1,9 +1,9 @@
 {
   "type": "mysql",
-  "host": "localhost",
+  "host": "nestjsmysql.mysql.database.azure.com",
   "port": 3306,
-  "username": "your-mysql-username",
-  "password": "your-mysql-password",
+  "username": "jason1466@nestjsmysql",
+  "password": "Wh0cares",
   "database": "nestjsrealworld",
   "entities": ["src/**/**.entity{.ts,.js}"],
   "synchronize": true
